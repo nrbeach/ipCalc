@@ -1,14 +1,14 @@
 //
-//  ipCalcApp.swift
-//  ipCalc
+//  ipcalcApp.swift
+//  ipcalc
 //
-//  Created by Nate Beach on 4/7/23.
+//  Created by Nate Beach on 3/27/23.
 //
 
 import SwiftUI
 
 @main
-struct ipCalcApp: App {
+struct ipcalcApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

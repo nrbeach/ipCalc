@@ -14,6 +14,7 @@
 		4355D63529E09C0F00E5F8A2 /* ipCalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4355D63429E09C0F00E5F8A2 /* ipCalcTests.swift */; };
 		4355D63F29E09C0F00E5F8A2 /* ipCalcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4355D63E29E09C0F00E5F8A2 /* ipCalcUITests.swift */; };
 		4355D64129E09C0F00E5F8A2 /* ipCalcUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4355D64029E09C0F00E5F8A2 /* ipCalcUITestsLaunchTests.swift */; };
+		4355D64E29E09C5A00E5F8A2 /* ipAddressModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4355D64D29E09C5A00E5F8A2 /* ipAddressModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		4355D63A29E09C0F00E5F8A2 /* ipCalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ipCalcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4355D63E29E09C0F00E5F8A2 /* ipCalcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ipCalcUITests.swift; sourceTree = "<group>"; };
 		4355D64029E09C0F00E5F8A2 /* ipCalcUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ipCalcUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4355D64D29E09C5A00E5F8A2 /* ipAddressModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ipAddressModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				4355D62629E09C0E00E5F8A2 /* Assets.xcassets */,
 				4355D62829E09C0E00E5F8A2 /* ipCalc.entitlements */,
 				4355D62929E09C0E00E5F8A2 /* Preview Content */,
+				4355D64D29E09C5A00E5F8A2 /* ipAddressModel.swift */,
 			);
 			path = ipCalc;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				4355D62529E09C0D00E5F8A2 /* ContentView.swift in Sources */,
 				4355D62329E09C0D00E5F8A2 /* ipCalcApp.swift in Sources */,
+				4355D64E29E09C5A00E5F8A2 /* ipAddressModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
